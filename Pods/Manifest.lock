@@ -1,0 +1,16 @@
+PODS:
+  - KVOController (1.2.0)
+
+DEPENDENCIES:
+  - KVOController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KVOController
+
+SPEC CHECKSUMS:
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+
+PODFILE CHECKSUM: 8a6f167a539ba064b5473ed0726fb5f38b5970d2
+
+COCOAPODS: 1.5.2
