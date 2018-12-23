@@ -1,3 +1,3 @@
 # MVVMDemo
 
-简单的实现MVVM的demo
+简单的实现MVVM的Demo
